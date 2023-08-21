@@ -14,7 +14,7 @@ Head [here](https://youtu.be/dXR2qfmPd8U) for a video demo and explanation of Ta
 TabCase is an augmented reality powered iOS App that uses the MetaMask SDK and the OpenSea API to empower independent artists and curators to visualise their art creations through a different medium. The general idea is that you can also visualise your own NFTs, or NFTs that you can bid on, using AR. This means that if you like the visual appearance of an NFT both on a computer screen and when mixed with your environment, you can make purchases not only based on value, but also how you want your owned artwork to interact with your environment. 
 
 ## Team Member ~~(s)~~
-Christian Gringling, jesusrafaelchris
+Christian Grinling, jesusrafaelchris
 Email: grinlingc@gmail.com
 
 ## Bounty Submitted 
