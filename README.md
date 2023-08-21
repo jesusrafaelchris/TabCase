@@ -33,7 +33,7 @@ Bounty 2: Mobile Fun with MetaMask SDK, as the SDK was used to 1. Connect the Ap
 # Installation
 Clone the repository using 
 
-    git clone wonwoignwegonweg
+    git clone https://github.com/jesusrafaelchris/TabCase
 
 Open the `.xcodeproj` file, change teams, and run the Xcode project.
 
